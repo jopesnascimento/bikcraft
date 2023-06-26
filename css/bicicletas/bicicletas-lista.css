@@ -1,0 +1,50 @@
+.bicletas-lista{
+    padding-top:60px ;
+    padding-bottom: 120px;
+}
+
+.bicletas-lista h2{
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    max-width: 1200px;
+    padding-left: 20px;
+    padding-right: 40px;
+    margin-left: auto ;
+    margin-right: auto;
+}
+
+.bicletas-lista ul{
+    display: flex;
+    gap: 40px;
+    padding: 0 20px;
+    max-width: 1440px;
+    margin-left: auto ;
+    margin-right: auto;
+}
+
+.bicletas-lista a{
+    display: block;
+}
+
+.bicletas-lista img{
+    margin-bottom: 16px;
+}
+
+.bicletas-lista h3{
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.bicletas-lista h3::before{
+    content: "";
+    display: inline-block;
+    height: 8px;
+    width: 12px;
+    background-color: var(--cor-p1);
+
+}
+
+.bicletas-lista li span{
+    padding-left: 20px;
+}
