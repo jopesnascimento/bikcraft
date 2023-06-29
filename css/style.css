@@ -1,12 +1,12 @@
 /* global */
-@import '/css/global/global.css';
+@import './global/global.css';
 /* header */
-@import '/css/global/header.css';
+@import './global/header.css';
 
 /*introducao*/
-@import '/css/introducao/introducao.css';
+@import './introducao/introducao.css';
 /* componentes */
-@import '/css/utilidades/componetes.css';
-@import '/css/utilidades/tipografia.css';
-@import '/css/utilidades/cores.css';
-@import '/css/bicicletas/bicicletas-lista.css';
+@import './utilidades/componetes.css';
+@import './utilidades/tipografia.css';
+@import './utilidades/cores.css';
+@import './bicicletas/bicicletas-lista.css';
